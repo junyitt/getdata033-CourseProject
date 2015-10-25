@@ -25,13 +25,13 @@ The resulting dataframe, data2 contains only the mean and standard deviation of 
 
 #STEP 3 Name the activities
 
-The activities labels ranges from 1 to 6 are then replaced with descriptive activity names i.e.
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+##The activities labels ranges from 1 to 6 are then replaced with descriptive activity names i.e.
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 #STEP 4 Descriptive variables names
 
